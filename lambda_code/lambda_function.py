@@ -5,8 +5,8 @@ ec2_cli = boto3.client(service_name="ec2", region_name="ap-south-1")
 volume_list = ["vol-049f34ebe171aad93", "vol-0e8e1cd39643fd3f0"]
 vol_map = ["/dev/sdf", "/dev/sdg"]
 avai_zone = 'ap-south-1b'
-account_id = '077946282272'
-instance_id = 'i-0df46339b157de812'
+account_id = '07794399002272'
+instance_id = 'i-0df46339b157ddd2'
     
 
 
